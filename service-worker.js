@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4846f533bb3f0d820a8c61405f3ab0aa.js"
+  "/b-time-traker-vue-gp/precache-manifest.4e07fa9a63eb954b22714c361a836763.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hello-world-vue"});
